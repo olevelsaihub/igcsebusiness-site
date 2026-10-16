@@ -1,0 +1,11 @@
+Every business turns inputs into output. Workers give their time, which is called labour, and the business makes goods or services from it. Imagine two students washing cars at a school fair. Ali washes twelve cars in three hours. Sara washes twelve cars in four hours. They wash the same number, but who works faster? Divide the cars by the hours. Ali washes four cars per hour. Sara washes three cars per hour. Ali is more productive: he gets more output from each hour of work.
+
+Labour productivity equals total output divided by the labour input. The labour input is either the hours worked or the number of workers. So the method is: find the total output, find the labour input, then divide and state the unit. The unit matters. Per hour means divide by hours. Per worker means divide by workers. For example, five hundred chairs made by twenty-five workers is twenty chairs per worker. Why does this matter? Higher productivity means more output from the same labour, so the wage cost of each unit falls.
+
+Here is a real question from Paper two in November twenty twenty-five. Calculate the factory's productivity of smartphones per hour. It is worth two marks. The factory makes one thousand smartphones in twenty hours. One thousand divided by twenty is fifty. So productivity is fifty smartphones per hour.
+
+A common mistake is dividing upside down: hours divided by output. That gives a tiny number, which tells you something has gone wrong. Other students multiply instead of dividing, or give the number with no unit. Divide, then write the full unit.
+
+Now you try. Six bakers make seven hundred and twenty loaves in an eight-hour shift. Calculate the labour productivity in loaves per worker. Pause here and work it out.
+
+The question says per worker, so divide by the six bakers. Seven hundred and twenty divided by six is one hundred and twenty loaves per worker. Check: one hundred and twenty times six is seven hundred and twenty. The eight-hour shift is not needed. Remember the method: find the output, find the labour input, then divide and state the unit. Now try the practice questions for this type.

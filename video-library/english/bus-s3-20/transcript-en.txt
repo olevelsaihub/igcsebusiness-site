@@ -1,0 +1,11 @@
+A small bakery pays six hundred dollars rent each month, however many cakes it sells. On a break-even chart, this fixed cost is a flat line. Each cake also needs two dollars of ingredients. Add these variable costs to the rent and you get total costs, a line that starts at six hundred and rises. Each cake sells for five dollars. Total revenue starts at zero, because no sales means no money in. Where total revenue crosses total costs is break-even: two hundred cakes. Below it, the bakery makes a loss. Above it, a profit.
+
+Some questions ask what happens when something changes. Higher fixed costs or higher variable costs raise break-even. A higher selling price lowers it. Break-even is useful. It shows how many units must be sold, lets managers ask what if questions, and supports a loan application. But it has limits. It assumes everything made is sold, that costs and revenue rise in straight lines, and its figures are only predictions.
+
+Here is a real question from November 2025, Paper two. Explain one limitation of a break-even chart. It is worth three marks: one limitation, then two linked steps. Mark one: the limitation. A break-even chart assumes every unit made is sold. Mark two: why that is unrealistic. Samsung may not sell all its televisions, for example if a rival launches a cheaper model. Mark three: the consequence. Real revenue is lower than the chart shows, so Samsung may need more sales to break even and could plan output on figures that are too optimistic.
+
+A common mistake is putting break-even where revenue meets the fixed cost line. Break-even is where revenue meets total costs. Another is getting the direction wrong. A higher price does not raise break-even. It lowers it.
+
+Now you try. A bike repair shop has fixed costs of one thousand two hundred dollars a month and spends eight dollars on parts per repair. It raises its price from twenty to twenty-five dollars. Does break-even rise or fall? Pause and decide.
+
+Break-even falls. Before, each repair contributes twelve dollars, so it needs one hundred repairs. After, each contributes seventeen dollars, so seventy point six, rounded up to seventy-one repairs. For Explain and Analyse answers, name the use or the limit, link it to the business, then say how it affects its decision. Now try the practice questions.

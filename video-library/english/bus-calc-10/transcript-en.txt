@@ -1,0 +1,11 @@
+Many business questions ask for a part of an amount. A salesperson earns a share of what they sell. A bank charges a share of a loan as interest. A shop takes a share off a price. Per cent means out of one hundred. So five per cent is five out of every hundred, which is zero point zero five as a decimal. Commission is pay based on a percentage of the value of sales made. Interest is the charge for borrowing money. In this type, the percentage amount itself is the answer.
+
+Step one, find the base. If several items or people are involved, multiply first to get the whole base, for example price times number of items. Step two, change the percentage to a decimal. Step three, multiply the base by the decimal. Step four, stop there, round as asked, and write the unit.
+
+Here is a real question from Paper two R in June 2025. A sales assistant earns five per cent commission and sells goods worth eight hundred and fifty pounds. Calculate the commission, to two decimal places. The base is eight hundred and fifty pounds. Five per cent is zero point zero five. Multiply: eight hundred and fifty times zero point zero five. That gives forty-two point five. Money needs two decimal places, so the commission is forty-two pounds fifty.
+
+The most common mistake is adding the commission on and giving eight hundred and ninety-two pounds fifty. The question asked only for the commission. Another mistake is putting the decimal point in the wrong place. Five per cent is zero point zero five, not zero point five. Zero point five would give four hundred and twenty-five pounds.
+
+Now you try. A sales assistant sells twelve jackets at forty-five dollars each. She earns six per cent commission on the value of her sales. Calculate her commission. Pause here and work it out.
+
+First the base. Twelve jackets at forty-five dollars each is five hundred and forty dollars of sales. Six per cent is zero point zero six. Five hundred and forty times zero point zero six is thirty-two dollars forty. That is her commission. Remember the method: find the whole base, change the percentage to a decimal, multiply, then stop and write the unit. Now try the practice questions.
