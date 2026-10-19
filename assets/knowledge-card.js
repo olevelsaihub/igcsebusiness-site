@@ -140,7 +140,7 @@
       ? 'Excellent. You are ready for the real past-paper question.'
       : score >= total - 2
         ? 'Good. Read the ones you missed again, then try the real question.'
-        : 'Go back to “Find the forces”, then try this check again.';
+        : 'Go back over the card, then try this check again.';
     end.hidden = false;
   }
 
