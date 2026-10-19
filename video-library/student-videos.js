@@ -95,7 +95,7 @@
       speed.addEventListener('change', () => { video.playbackRate = Number(speed.value); });
       speedLabel.append(speed); controls.append(speedLabel);
       const full = node('a', 'Open full lesson'); full.href = base + lesson.page; controls.append(full);
-      const browse = node('a', 'All video lessons'); browse.href = base; controls.append(browse); body.append(controls);
+      const browse = node('a', 'All video lessons'); browse.href = base + 'lessons.html'; controls.append(browse); body.append(controls);
       const chapters = node('div', undefined, 'business-video-chapters'); chapters.setAttribute('aria-label', 'Lesson chapters');
       const ensureSource = () => { if (!video.src) { video.src = base + lesson.video; video.load(); } };
       const seekStatus = node('p', '', 'business-video-seek-status');
