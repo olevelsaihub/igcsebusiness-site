@@ -79,7 +79,12 @@
     var answer = field ? field.value : '';
     var out = form.querySelector('.check-result');
     if (!answer.trim()) { out.innerHTML = '<p class="check-bad">Write or choose an answer first.</p>'; return; }
-    var rule = (function () { try { return JSON.parse((document.getElementById('olv-rules') || {}).textContent || '{}')[part]; } catch (e) { return null; } })();
+    // The page's own rules, then the rules of a lesson loaded into a plan or type workspace (bank.js keeps them
+    // beside the lesson as <script data-olv-rules>).
+    var rule = (function () {
+      var els = [document.getElementById('olv-rules')].concat([].slice.call(document.querySelectorAll('script[data-olv-rules]')));
+      for (var i = 0; i < els.length; i++) { if (!els[i]) continue; try { var r = JSON.parse(els[i].textContent || '{}')[part]; if (r) return r; } catch (e) {} }
+      return null; })();
     if (rule && window.OlvMarkingAdapter && window.OlvMarkingAdapter.check) {
       var local = window.OlvMarkingAdapter.check(rule, answer);
       if (local) { out.innerHTML = render(local, mode); return; }
