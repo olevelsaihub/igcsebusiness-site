@@ -1,0 +1,11 @@
+Idea۔ ہر business inputs کو output میں بدلتا ہے۔ Workers اپنا وقت دیتے ہیں، جسے labour کہتے ہیں، اور business اس سے goods یا services بناتا ہے۔ تصور کریں دو students school fair میں cars دھو رہے ہیں۔ Ali تین گھنٹے میں بارہ cars دھوتا ہے۔ Sara چار گھنٹے میں بارہ cars دھوتی ہے۔ دونوں نے برابر دھوئیں، لیکن تیز کام کون کرتا ہے؟ Cars کو گھنٹوں سے divide کریں۔ Ali ایک گھنٹے میں چار cars دھوتا ہے۔ Sara ایک گھنٹے میں تین cars دھوتی ہے۔ Ali زیادہ productive ہے: وہ کام کے ہر گھنٹے سے زیادہ output لیتا ہے۔
+
+Method۔ Labour productivity برابر ہے total output تقسیم labour input۔ Labour input یا تو کام کے گھنٹے ہیں یا workers کی تعداد۔ تو طریقہ یہ ہے: total output نکالیں، labour input نکالیں، پھر divide کریں اور unit بتائیں۔ Unit اہم ہے۔ Per hour کا مطلب ہے گھنٹوں سے divide کریں۔ Per worker کا مطلب ہے workers سے divide کریں۔ مثلاً پچیس workers کی بنائی ہوئی پانچ سو chairs، بیس chairs per worker ہیں۔ یہ کیوں اہم ہے؟ Higher productivity کا مطلب ہے اسی labour سے زیادہ output، اس لیے ہر unit کا wage cost کم ہو جاتا ہے۔
+
+Worked Example۔ یہ Paper دو، نومبر دو ہزار پچیس کا real question ہے۔ Factory کی smartphones per hour میں productivity Calculate کریں۔ دو marks ہیں۔ Factory بیس گھنٹوں میں ایک ہزار smartphones بناتی ہے۔ ایک ہزار تقسیم بیس، پچاس۔ تو productivity پچاس smartphones per hour ہے۔
+
+Common Mistake۔ ایک عام غلطی الٹا divide کرنا ہے، یعنی hours تقسیم output۔ اس سے بہت چھوٹا number آتا ہے، جو بتاتا ہے کہ کچھ غلط ہوا ہے۔ کچھ students divide کرنے کی جگہ multiply کر دیتے ہیں، یا number بغیر unit کے لکھ دیتے ہیں۔ Divide کریں، پھر پوری unit لکھیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ چھ bakers آٹھ گھنٹے کی shift میں سات سو بیس loaves بناتے ہیں۔ Labour productivity، loaves per worker میں Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ سوال per worker کہتا ہے، اس لیے چھ bakers سے divide کریں۔ سات سو بیس تقسیم چھ، ایک سو بیس loaves per worker۔ Check کریں: ایک سو بیس ضرب چھ، سات سو بیس۔ آٹھ گھنٹے کی shift کی ضرورت نہیں۔ طریقہ یاد رکھیں۔ output نکالیں، labour input نکالیں، پھر divide کریں اور unit بتائیں۔ اب اس type کے practice questions کریں۔

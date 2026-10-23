@@ -1,0 +1,11 @@
+Idea۔ سوچیں تیس students اپنے lunch کے لیے vote کرتے ہیں۔ بارہ pizza چنتے ہیں، دس pasta اور آٹھ salad۔ class کے کتنے حصے نے pizza چنا؟ Part کو total سے divide کریں، پھر ایک سو سے multiply کریں۔ بارہ تقسیم تیس، صفر اعشاریہ چار۔ ضرب ایک سو، چالیس per cent۔ Businesses بھی یہی خیال استعمال کرتے ہیں۔ Market share، ایک business کی sales ہے، market کی تمام businesses کی total sales کے percentage کے طور پر۔
+
+Method۔ Step ایک: part ڈھونڈیں۔ سوال غور سے پڑھیں اور اس business یا جگہ کا figure چنیں جس کا نام آیا ہے۔ یہاں ہمیں Alpha چاہیے۔ Step دو: total ڈھونڈیں۔ اگر نہ دیا ہو تو تمام parts جمع کریں۔ check کریں کہ سب ایک ہی unit میں ہیں، یہاں millions of pounds۔ پچاس جمع تیس جمع چالیس، ایک سو بیس۔ Step تین: part کو total سے divide کریں اور ایک سو سے multiply کریں۔ پچاس تقسیم ایک سو بیس، ضرب ایک سو، اکتالیس اعشاریہ چھ چھ recurring۔ Step چار: جیسا کہا جائے ویسے round کریں، عام طور پر دو decimal places تک، یعنی اکتالیس اعشاریہ چھ سات per cent۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کے Paper two R کا اصل سوال ہے۔ UK میں Jimmy Choo shops کا percentage، دو decimal places تک Calculate کریں۔ اس کے دو marks ہیں۔ figure میں ہر ملک کی shops دکھائی گئی ہیں۔ Canada میں پانچ، UK میں سات، Ireland میں دو، اور Australia میں ایک۔ UK ہمارا part ہے۔ تمام parts جمع کریں۔ پانچ جمع سات جمع دو جمع ایک، پندرہ shops۔ اس پر پہلا mark ملتا ہے۔ اب divide کریں۔ سات تقسیم پندرہ، ضرب ایک سو، چھیالیس اعشاریہ چھ چھ recurring۔ دو decimal places تک، چھیالیس اعشاریہ چھ سات per cent۔
+
+Common Mistake۔ ایک عام غلطی: الٹا divide کرنا۔ پندرہ کو سات سے divide کریں تو دو سو per cent سے زیادہ آتا ہے۔ Total کا share کبھی ایک سو per cent سے زیادہ نہیں ہو سکتا۔ ایک اور غلطی: کوئی part چھوڑ دینا۔ Australia بھول جائیں تو total چودہ بنتا ہے، اور غلط جواب پچاس per cent آتا ہے۔
+
+Your Turn۔ اب آپ کریں۔ ایک town میں تین cafés coffee بیچتے ہیں۔ ہفتہ وار sales یہ ہیں: Bean Box کی چار ہزار dollars، Cup Corner کی دو ہزار پانچ سو، اور Daily Brew کی ایک ہزار پانچ سو۔ دو decimal places تک Cup Corner کا market share Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ پہلے total۔ چار ہزار جمع دو ہزار پانچ سو جمع ایک ہزار پانچ سو، آٹھ ہزار dollars۔ Cup Corner part ہے۔ دو ہزار پانچ سو تقسیم آٹھ ہزار، ضرب ایک سو، اکتیس اعشاریہ دو پانچ per cent۔ یاد رکھیں method: part ڈھونڈیں، total ڈھونڈیں، پھر part کو total سے divide کریں اور ایک سو سے multiply کریں۔ اب اس type کے practice questions کریں۔

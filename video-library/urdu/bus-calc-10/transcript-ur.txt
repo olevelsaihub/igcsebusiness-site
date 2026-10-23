@@ -1,0 +1,11 @@
+Idea۔ بہت سے business سوالات کسی رقم کا حصہ پوچھتے ہیں۔ Salesperson اپنی sales کا ایک حصہ کماتا ہے۔ Bank قرض کے حصے کے طور پر interest لیتا ہے۔ Shop price میں سے کچھ حصہ کم کرتی ہے۔ Per cent کا مطلب ہے سو میں سے۔ تو پانچ per cent یعنی ہر سو میں سے پانچ، جو decimal میں صفر اعشاریہ صفر پانچ ہے۔ Commission وہ pay ہے جو کی گئی sales کی value کے percentage پر مبنی ہو۔ Interest پیسے ادھار لینے کی charge ہے۔ اس type میں percentage amount خود ہی جواب ہے۔
+
+Method۔ Step ایک، base ڈھونڈیں۔ اگر کئی items یا لوگ ہوں تو پہلے multiply کر کے پورا base بنائیں، مثلاً price ضرب items کی تعداد۔ Step دو، percentage کو decimal میں بدلیں۔ Step تین، base کو decimal سے multiply کریں۔ Step چار، وہیں رک جائیں، جیسا کہا جائے ویسے round کریں، اور unit لکھیں۔
+
+Worked Example۔ یہ جون دو ہزار پچیس کے Paper two R کا اصل سوال ہے۔ ایک sales assistant پانچ per cent commission کماتا ہے اور آٹھ سو پچاس pounds کا سامان بیچتا ہے۔ دو decimal places تک commission Calculate کریں۔ Base آٹھ سو پچاس pounds ہے۔ پانچ per cent یعنی صفر اعشاریہ صفر پانچ۔ Multiply کریں: آٹھ سو پچاس ضرب صفر اعشاریہ صفر پانچ۔ جواب بیالیس اعشاریہ پانچ آتا ہے۔ پیسوں کے لیے دو decimal places چاہییں، اس لیے commission بیالیس pounds پچاس ہے۔
+
+Common Mistake۔ سب سے عام غلطی: commission کو جمع کر کے آٹھ سو بیانوے pounds پچاس بتانا۔ سوال میں صرف commission پوچھا گیا تھا۔ ایک اور غلطی: decimal point غلط جگہ لگانا۔ پانچ per cent صفر اعشاریہ صفر پانچ ہے، صفر اعشاریہ پانچ نہیں۔ صفر اعشاریہ پانچ سے چار سو پچیس pounds آتے۔
+
+Your Turn۔ اب آپ کریں۔ ایک sales assistant بارہ jackets پینتالیس dollars فی jacket بیچتی ہے۔ وہ اپنی sales کی value پر چھ per cent commission کماتی ہے۔ اس کا commission Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ پہلے base۔ بارہ jackets، پینتالیس dollars فی jacket، پانچ سو چالیس dollars کی sales۔ چھ per cent یعنی صفر اعشاریہ صفر چھ۔ پانچ سو چالیس ضرب صفر اعشاریہ صفر چھ، بتیس dollars چالیس cents۔ یہی اس کا commission ہے۔ یاد رکھیں method: پورا base ڈھونڈیں، percentage کو decimal میں بدلیں، multiply کریں، پھر رک جائیں اور unit لکھیں۔ اب practice questions کریں۔

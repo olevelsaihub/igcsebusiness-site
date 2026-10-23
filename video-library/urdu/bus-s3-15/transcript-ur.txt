@@ -1,0 +1,11 @@
+Idea۔ تصور کریں کہ آپ lemonade stall چلاتے ہیں۔ آپ table کا کرایہ دیتے ہیں، اور lemons اور cups خریدتے ہیں۔ یہ costs ہیں، یعنی وہ پیسہ جو business اپنے products بنانے اور بیچنے پر خرچ کرتا ہے۔ Output وہ تعداد ہے جتنے products business بناتا ہے۔ اب سوچیں: lemonade کے زیادہ glasses بنائیں تو کون سے costs بڑھتے ہیں؟ table کا کرایہ وہی رہتا ہے۔ lemons اور cups بڑھ جاتے ہیں۔
+
+Method۔ Fixed costs output بدلنے سے نہیں بدلتے۔ Rent، insurance اور managers کی salaries اس وقت بھی دی جاتی ہیں جب business دس items بنائے یا دس ہزار۔ graph پر fixed costs ایک سیدھی لائن ہوتے ہیں۔ Variable costs output کے ساتھ براہ راست بدلتے ہیں۔ زیادہ بنائیں تو زیادہ خرچ ہوتا ہے۔ Raw materials اور packaging variable ہیں۔ انہیں fixed costs میں جوڑیں تو output بڑھنے کے ساتھ total cost بڑھتا ہے۔ کسی بھی cost کو classify کرنے کے لیے ایک test استعمال کریں۔ اگر business ایک unit اور بنائے تو کیا یہ bill بڑھے گا؟ اگر ہاں تو variable ہے۔ اگر نہیں تو fixed ہے۔ State question میں ایسا cost چنیں جو case کے business سے مطابقت رکھتا ہو۔ ایک flower shop کے لیے، flowers variable cost ہیں اور shop کا rent fixed cost ہے۔
+
+Worked Example۔ یہ جون دو ہزار تئیس کے Paper ایک R کا real question ہے، Paris کی ایک flower shop کے بارے میں۔ Define کریں term variable costs۔ ایک mark ہے، اس لیے ایک صاف جملہ کافی ہے۔ definition تین key words سے بنائیں۔ Costs۔ That change۔ When output changes۔ تو: variable costs وہ costs ہیں جن کا total اس وقت بدلتا ہے جب output بدلے۔ مثلاً flower shop زیادہ arrangements بنائے تو flowers پر زیادہ خرچ کرتی ہے۔ مثال مطلب کی تائید کرتی ہے مگر اس کی جگہ نہیں لیتی۔
+
+Common Mistake۔ ایک common mistake یہ کہنا ہے کہ fixed costs کبھی نہیں بدلتے۔ Rent اگلے سال بڑھ سکتا ہے۔ Fixed cost بس اس وقت نہیں بدلتا جب output بدلے۔ ایک اور mistake، packaging یا raw materials کو fixed کہنا۔ ہر اضافی unit کو ان کی زیادہ مقدار چاہیے، اس لیے وہ variable ہیں۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک pizza takeaway چار costs دیتا ہے: shop کا rent، cheese، pizza boxes، اور manager کی salary۔ کون سے fixed ہیں اور کون سے variable؟ رک کر فیصلہ کریں۔
+
+Answer۔ ایک اور pizza کے لیے زیادہ cheese اور ایک اور box چاہیے، اس لیے یہ variable ہیں۔ Rent اور manager کی salary وہی رہتی ہیں، اس لیے یہ fixed ہیں۔ test یاد رکھیں: ایک unit اور بنائیں۔ اگر cost بڑھے تو variable ہے۔ اگر وہی رہے تو fixed ہے۔ اب practice questions کریں۔

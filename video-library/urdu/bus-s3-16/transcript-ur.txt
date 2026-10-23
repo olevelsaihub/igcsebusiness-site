@@ -1,0 +1,11 @@
+Idea۔ تصور کریں کہ ایک juice stall ہے۔ وہ ایک dollar فی cup کے حساب سے پچاس cups بیچتا ہے، اس لیے اسے پچاس dollars ملتے ہیں۔ یہ revenue ہے: بیچنے سے آنے والا پیسہ، یعنی price ضرب بکی ہوئی تعداد۔ Fruit، cups اور stall پر تیس dollars خرچ ہوئے۔ Profit وہ ہے جو costs کے بعد بچے: پچاس minus تیس، بیس dollars۔ اگر costs revenue سے زیادہ ہوتے تو stall کو loss ہوتا۔
+
+Method۔ Profit بڑھانے کا ہر طریقہ تین levers سے کام کرتا ہے: price، بکی ہوئی تعداد، اور costs۔ Revenue بڑھائیں، یا costs کم کریں۔ ہر lever کا ایک trade-off ہے۔ زیادہ price سے customers کھو سکتے ہیں۔ سستا material quality گھٹا سکتا ہے۔ اچھے جوابوں میں دکھایا جاتا ہے کہ آپ یہ جانتے ہیں۔ کسی method کو explain کرنے کے لیے ایک مخصوص action کا نام لیں، دکھائیں کہ یہ revenue یا costs کو کیسے بدلتا ہے، پھر دکھائیں کہ اس سے profit کیسے بدلتا ہے۔
+
+Worked Example۔ یہ جون دو ہزار بائیس کے Paper ایک کا real question ہے۔ Explain کریں کہ ایک چھوٹا business اپنا profit بڑھانے کے لیے کون سا method استعمال کر سکتا ہے، ایک method۔ تین marks ہیں، ایک method، پھر دو linked steps۔ Mark ایک ایک مخصوص method ہے۔ business اپنا stock سستے supplier سے خریدتا ہے۔ Mark دو پہلا link ہے۔ اب ہر item کا cost کم ہے، اس لیے item کے cost اور اس کی selling price کے درمیان فرق بڑھ جاتا ہے۔ Mark تین دوسرا link ہے۔ اگر وہ اسی price پر اتنے ہی items بیچے تو revenue وہی رہتا ہے جبکہ total costs گرتے ہیں، اس لیے profit بڑھتا ہے۔
+
+Common Mistake۔ ایک common mistake profit کو آنے والا پیسہ بتانا ہے۔ sales سے آنے والا پیسہ revenue ہے۔ Profit وہ ہے جو تمام costs کے بعد بچے۔ ایک اور mistake، بس لکھ دینا کہ sales بڑھائیں، اور کوئی method نہ دینا۔ بتائیں کیسے، مثلاً social media پر advertising، پھر دکھائیں کہ اضافی revenue اضافی cost سے زیادہ ہے، اس لیے profit بڑھتا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک hairdresser بیس dollars فی haircut لیتی ہے اور ہفتے میں تیس haircuts کرتی ہے۔ اس کے ہفتہ وار costs چار سو پچاس dollars ہیں۔ Calculate کریں اس کا ہفتہ وار profit، پھر اسے بڑھانے کا ایک طریقہ بتائیں۔ رک کر فیصلہ کریں۔
+
+Answer۔ Revenue برابر بیس ضرب تیس، یعنی چھ سو dollars۔ Profit برابر چھ سو minus چار سو پچاس، یعنی ایک سو پچاس dollars فی ہفتہ۔ ایک طریقہ: shampoo سستے supplier سے خریدیں۔ Costs گرتے ہیں، اور اگر price اور haircuts کی تعداد وہی رہیں تو profit بڑھتا ہے۔ یاد رکھیں: method، پھر revenue یا costs، پھر profit۔ اب practice questions کریں۔

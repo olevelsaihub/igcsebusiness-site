@@ -1,0 +1,11 @@
+Idea۔ سوچیں آپ کا pocket money بیس dollars فی ہفتہ سے بڑھ کر پچیس dollars ہو جاتا ہے۔ کتنی تبدیلی آئی؟ Business سوالات اکثر یہی پوچھتے ہیں، sales، revenue اور customers کے بارے میں۔ Absolute change ہے نئی value minus پرانی value۔ پچیس minus بیس، پانچ dollars۔ یہ اصل unit میں ہی رہتا ہے۔ Percentage change، تبدیلی کا موازنہ شروع کی value سے کرتا ہے۔ اصل بیس میں سے پانچ، ایک چوتھائی ہے، یعنی پچیس per cent۔
+
+Method۔ Step ایک۔ پرانی value اور نئی value ڈھونڈیں۔ check کریں کہ صحیح row اور صحیح سال استعمال کر رہے ہیں، کیونکہ tables میں اکثر ضرورت سے زیادہ معلومات ہوتی ہیں۔ Step دو، subtract کریں: نئی minus پرانی۔ Step تین، percentage کے لیے پرانی value سے divide کریں اور ایک سو سے multiply کریں۔ Step چار، جیسا کہا جائے ویسے round کریں اور بتائیں کہ increase ہے یا decrease۔
+
+Worked Example۔ یہ نومبر دو ہزار بیس کے Paper two R کا اصل سوال ہے۔ ایک sports equipment maker کی revenue، ہزاروں rupees میں، پچاسی ہزار تراسی سے بڑھ کر بانوے ہزار تین سو بائیس ہو گئی۔ دو decimal places تک percentage increase Calculate کریں۔ پرانی value ہے پچاسی ہزار تراسی۔ نئی value ہے بانوے ہزار تین سو بائیس۔ Subtract کریں: تبدیلی ہے سات ہزار دو سو انتالیس۔ اب پرانی value سے divide کریں اور ایک سو سے multiply کریں۔ جواب آتا ہے آٹھ اعشاریہ پانچ صفر آٹھ، جو round ہو کر آٹھ اعشاریہ پانچ ایک per cent بنتا ہے۔ یہ increase ہے۔
+
+Common Mistake۔ سب سے عام غلطی: نئی value سے divide کرنا۔ اس سے سات اعشاریہ آٹھ چار per cent آتا ہے، جو غلط ہے۔ ہمیشہ پرانی value سے divide کریں۔ ایک اور غلطی: پہلے subtract کیے بغیر نئی کو پرانی سے divide کر دینا۔ اس سے ایک سو آٹھ اعشاریہ پانچ ایک per cent آتا ہے۔ پہلے subtract کریں، پھر divide۔
+
+Your Turn۔ اب آپ کریں۔ ایک bakery نے مئی میں چھ سو چالیس loaves اور جون میں پانچ سو باون loaves بیچے۔ دو decimal places تک percentage change Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ مئی پرانی value ہے۔ پانچ سو باون minus چھ سو چالیس، minus اٹھاسی۔ minus sign بتاتا ہے کہ sales کم ہوئیں۔ اٹھاسی تقسیم چھ سو چالیس، ضرب ایک سو، تیرہ اعشاریہ سات پانچ۔ تو sales تیرہ اعشاریہ سات پانچ per cent کم ہوئیں۔ یاد رکھیں method: تبدیلی نکالیں، پرانی value سے divide کریں، ایک سو سے multiply کریں، پھر round کریں اور بتائیں increase ہے یا decrease۔ اب practice questions کریں۔

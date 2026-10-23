@@ -1,0 +1,11 @@
+Idea۔ سوچیں آپ friendship bracelets بناتے ہیں۔ آپ market کی ایک table بیس dollars میں rent پر لیتے ہیں، چاہے آپ کتنا ہی بنائیں۔ ہر bracelet میں ایک dollar کا thread لگتا ہے۔ اگر آپ تیس bracelets بنائیں تو thread کی cost تیس ضرب ایک dollar، یعنی تیس dollars ہے۔ بیس dollars rent جمع کریں تو آپ کی total cost پچاس dollars ہے۔ graph پر fixed cost بیس dollars پر ایک سیدھی line ہے۔ Total cost بیس سے شروع ہوتی ہے اور ہر bracelet کے ساتھ ایک dollar بڑھتی ہے، اور تیس bracelets پر پچاس dollars تک پہنچتی ہے۔
+
+Method۔ Step ایک، تین figures چنیں: fixed cost، variable cost per unit، اور units کی تعداد۔ tables میں اکثر selling price بھی ہوتی ہے۔ selling price cost نہیں ہے، اس لیے اسے چھوڑ دیں۔ Step دو، variable cost per unit کو units کی تعداد سے multiply کریں۔ Step تین، fixed cost جمع کریں۔ Step چار، currency لکھیں، اور check کریں کہ time period match کر رہا ہے۔
+
+Worked Example۔ یہ جون دو ہزار بائیس کے Paper one کا اصل سوال ہے، Singapore کی ایک toy shop کے بارے میں۔ ایک سو ساٹھ wooden toy carts بنانے کی total cost Calculate کریں۔ اس کے دو marks ہیں۔ table سے، fixed costs پانچ سو پچپن Singapore dollars اکتیس cents ہیں۔ variable cost ترانوے cents فی cart ہے۔ output ایک سو ساٹھ carts ہے۔ Total variable cost ہے صفر اعشاریہ نو تین ضرب ایک سو ساٹھ، یعنی ایک سو اڑتالیس dollars اسی cents۔ fixed costs جمع کریں: پانچ سو پچپن dollars اکتیس cents جمع ایک سو اڑتالیس dollars اسی cents، سات سو چار Singapore dollars گیارہ cents۔
+
+Common Mistake۔ ایک عام غلطی: fixed cost کو صرف ایک cart کی cost کے ساتھ جمع کر دینا۔ اس سے پانچ سو چھپن Singapore dollars چوبیس cents آتے ہیں۔ پہلے سب ایک سو ساٹھ carts سے multiply کرنا ضروری ہے۔ ایک اور غلطی: fixed cost بالکل بھول جانا، یا variable cost کی جگہ selling price استعمال کرنا۔ Total cost میں دونوں قسم کی costs چاہییں، اور کوئی price نہیں۔
+
+Your Turn۔ اب آپ کریں۔ ایک bakery کی fixed costs تین سو dollars فی ہفتہ ہیں۔ ہر loaf بنانے میں اسی cents لگتے ہیں اور دو dollars پچاس cents میں بکتا ہے۔ وہ ہفتے میں چار سو پچاس loaves بناتی ہے۔ اس کی total weekly cost Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ selling price چھوڑ دیں۔ Variable cost ہے صفر اعشاریہ آٹھ صفر ضرب چار سو پچاس، یعنی تین سو ساٹھ dollars۔ اب fixed cost جمع کریں۔ تین سو جمع تین سو ساٹھ، چھ سو ساٹھ dollars فی ہفتہ۔ یاد رکھیں method: تین figures چنیں، cost per unit کو units سے multiply کریں، پھر fixed cost جمع کریں۔ اب practice questions کریں۔

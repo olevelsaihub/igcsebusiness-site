@@ -1,0 +1,11 @@
+Idea۔ سوچیں آپ school fair میں lemonade stall چلاتے ہیں۔ table کا rent دن کے بیس dollars ہے، چاہے آپ ایک cup بیچیں یا سو۔ یہ fixed cost ہے۔ ہر cup ایک dollar میں بکتا ہے، لیکن lemons اور cup کی cost پچاس cents ہے۔ تو ہر cup سے پچاس cents بچتے ہیں جو rent ادا کرنے میں مدد دیتے ہیں۔ اسے contribution per unit کہتے ہیں۔ کتنے cups سے بیس dollars پورے ہوں گے؟ بیس تقسیم پچاس cents، چالیس cups۔ چالیس cups پر total revenue اور total costs برابر ہیں: نہ profit، نہ loss۔ یہ break-even ہے۔
+
+Method۔ Step ایک: سوال میں تین figures ڈھونڈیں۔ fixed costs، selling price، اور variable cost per unit۔ Step دو: contribution per unit نکالیں، یعنی price minus variable cost۔ Step تین: fixed costs کو اس contribution سے divide کریں۔ Step چار: اگر جواب پورا number نہ ہو تو ہمیشہ round up کریں۔ unit کا حصہ نہیں بک سکتا، اور round down کرنے سے تھوڑا loss رہ جاتا۔
+
+Worked Example۔ یہ جون دو ہزار چوبیس کے Paper one کا اصل exam سوال ہے۔ ایک business dog treats کی نئی line بنانے کا plan کرتی ہے، اور Figure چار میں figures دیے ہیں۔ Monthly fixed costs ایک ہزار euros ہیں، ہر treat بنانے میں تین euros پچیس لگتے ہیں، اور وہ چار euros پچاس میں بکتا ہے۔ break-even output Calculate کریں۔ اس کے دو marks ہیں۔ پہلے contribution۔ چار پچاس minus تین پچیس، ایک euro پچیس فی treat۔ اب divide کریں۔ ایک ہزار تقسیم ایک اعشاریہ دو پانچ، آٹھ سو۔ یہ پورا number ہے، اس لیے rounding نہیں۔ جواب ہے آٹھ سو dog treats۔ Check کریں۔ آٹھ سو treats سے تین ہزار چھ سو euros آتے ہیں۔ Total costs دو ہزار چھ سو جمع ایک ہزار، یعنی تین ہزار چھ سو۔ Revenue اور costs برابر ہیں۔
+
+Common Mistake۔ ایک عام غلطی: fixed costs کو selling price سے، یا variable cost سے divide کرنا۔ ہمیشہ contribution سے divide کریں۔ ایک اور غلطی: جواب پیسوں میں دینا۔ Break-even output، units کی تعداد ہے۔
+
+Your Turn۔ اب آپ کریں۔ ایک car wash کے fixed costs تیرہ سو dollars ماہانہ ہیں۔ ہر wash نو dollars میں بکتا ہے، اور صابن اور پانی پر تین dollars پچاس لگتے ہیں۔ washes کی break-even تعداد Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ Contribution ہے نو minus تین پچاس، یعنی پانچ dollars پچاس۔ تیرہ سو تقسیم پانچ پچاس، دو سو چھتیس اعشاریہ تین چھ۔ Round up کریں: دو سو سینتیس washes۔ یاد رکھیں method: تین figures ڈھونڈیں، contribution نکالیں، fixed costs کو اس سے divide کریں، پھر round up کریں اور units لکھیں۔ اب practice questions کریں۔

@@ -1,0 +1,11 @@
+Idea۔ ایک sports shop ایک football دس dollars میں خریدتی ہے اور پندرہ dollars میں بیچتی ہے۔ Cost کے اوپر جو پانچ dollars وہ لگاتی ہے، وہ ہر ball پر اس کا profit ہے۔ Markup اس profit کو cost کے percentage کے طور پر دکھاتا ہے۔ پانچ تقسیم دس، ضرب ایک سو، پچاس per cent۔
+
+Method۔ Step ایک: cost اور selling price ڈھونڈیں۔ Step دو: profit per unit ہے price minus cost۔ Step تین: cost سے divide کریں، اور ایک سو سے multiply کریں۔ کچھ سوالات الٹی طرف چلتے ہیں۔ Price نکالنے کے لیے cost کو ایک جمع markup سے multiply کریں۔ Cost نکالنے کے لیے price کو ایک جمع markup سے divide کریں۔ Step پانچ: جیسا کہا جائے ویسے round کریں، عام طور پر دو decimal places تک، اور per cent sign لکھیں۔ Markup ایک سو per cent سے زیادہ بھی ہو سکتا ہے۔ چار dollar کی چیز دس میں بیچیں تو markup ایک سو پچاس per cent ہے۔
+
+Worked Example۔ یہ نومبر دو ہزار بیس کے Paper one کا اصل exam سوال ہے۔ ایک drum kit کی cost ایک سو نوے pounds ہے اور وہ تین سو پچاس pounds میں بکتا ہے۔ دو decimal places تک markup Calculate کریں۔ اس کے دو marks ہیں۔ پہلے ہر drum kit پر profit۔ تین سو پچاس minus ایک سو نوے، ایک سو ساٹھ pounds۔ اب cost سے divide کریں۔ ایک سو ساٹھ تقسیم ایک سو نوے، ضرب ایک سو، چوراسی اعشاریہ دو ایک صفر۔ دو decimal places تک، چوراسی اعشاریہ دو ایک per cent۔
+
+Common Mistake۔ سب سے عام غلطی: cost کی جگہ selling price سے divide کرنا۔ الٹی طرف حل کرتے وقت price میں سے percentage minus نہ کریں۔ اس کی جگہ ایک جمع markup سے divide کریں۔
+
+Your Turn۔ اب آپ کریں۔ ایک bakery birthday cake چھتیس dollars میں بیچتی ہے۔ اس کا markup بیس per cent ہے۔ cake بنانے کی cost Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ Cost برابر ہے price تقسیم ایک جمع markup۔ چھتیس تقسیم ایک اعشاریہ دو، تیس dollars۔ Check کریں۔ تیس ضرب ایک اعشاریہ دو، چھتیس۔ چھتیس میں سے بیس per cent نکالیں تو اٹھائیس dollars اسی cents آتے، جو غلط ہے۔ یاد رکھیں method: profit ہے price minus cost، cost سے divide کریں اور ایک سو سے multiply کریں۔ الٹی طرف جانے کے لیے ایک جمع markup سے multiply یا divide کریں۔ اب practice questions کریں۔

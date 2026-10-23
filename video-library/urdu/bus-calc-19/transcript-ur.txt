@@ -1,0 +1,11 @@
+Idea۔ تصور کریں تین دوست تیس sweets کا ایک bag برابر بانٹتے ہیں۔ ہر دوست کو دس ملتی ہیں۔ کل کو برابر بانٹنا ہی average کرتا ہے۔ Business میں average کو mean کہتے ہیں۔ Mean برابر ہے total تقسیم items کی تعداد، جیسے shops، showrooms یا units۔ ایک business کی مثال۔ چار cafés بارہ سو، اٹھارہ سو، چودہ سو اور سولہ سو cups بیچتے ہیں۔ Total چھ ہزار ہے۔ چھ ہزار تقسیم چار، پندرہ سو cups per café۔
+
+Method۔ طریقے میں تین steps ہیں۔ جو total بانٹنا ہے وہ نکالیں۔ outlets یا units کی تعداد نکالیں۔ پھر total کو تعداد سے divide کریں، اور unit لکھیں۔ Divide کرنے سے پہلے بڑے numbers پورے لکھیں۔ نوے لاکھ، یعنی نو کے بعد چھ zeros۔ دو اعشاریہ پانچ million، یعنی پچیس لاکھ۔ ایک billion میں نو zeros ہوتے ہیں۔ Exam cases میں اکثر اضافی figures ہوتے ہیں، جیسے employees یا turnover۔ صرف وہی total اور count استعمال کریں جو سوال پوچھتا ہے۔
+
+Worked Example۔ یہ Paper دو، جون دو ہزار انیس کا real question ہے۔ ہر car showroom میں بکنے والی vehicles کی average تعداد Calculate کریں۔ دو marks ہیں۔ Case چار figures دیتا ہے۔ ہمیں vehicles sold چاہیے، نوے لاکھ، اور showrooms، چھ ہزار۔ employees اور turnover کی ضرورت نہیں۔ نوے لاکھ پورا لکھیں، پھر چھ ہزار سے divide کریں۔ نوے لاکھ تقسیم چھ ہزار، پندرہ سو vehicles per showroom۔
+
+Common Mistake۔ ایک عام غلطی غلط figure استعمال کرنا ہے، جیسے employees۔ اس سے دس آتا ہے، جو employees per showroom ہے، vehicles نہیں۔ ایک اور غلطی الٹا divide کرنا ہے۔ اس طرح کا بہت چھوٹا جواب warning sign ہے۔ Total ہمیشہ اوپر جاتا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک bakery chain تین سو shops کے ذریعے سال میں چوبیس لاکھ loaves بیچتی ہے۔ اس کے اٹھارہ سو staff ہیں۔ فی shop بکنے والی loaves کی average تعداد Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ دو اعشاریہ چار million، یعنی چوبیس لاکھ۔ staff کو نظر انداز کریں۔ تین سو shops سے divide کریں۔ جواب ہے آٹھ ہزار loaves per shop۔ طریقہ یاد رکھیں۔ total نکالیں، تعداد نکالیں، پھر divide کریں اور unit لکھیں۔ اب اس type کے practice questions کریں۔

@@ -1,0 +1,11 @@
+Idea۔ سوچیں آپ homemade cookies بیچتے ہیں۔ آپ کے پاس ساٹھ dollars آتے ہیں، اور ingredients اور boxes پر چالیس dollars لگتے ہیں۔ ساٹھ minus چالیس، بیس dollars بچتے ہیں۔ یہ آپ کا profit ہے۔ تین قسم کے profits جاننا ضروری ہیں۔ Profit میں سب costs نکالی جاتی ہیں۔ Gross profit میں صرف cost of sales نکلتی ہے، یعنی بیچے گئے سامان کی direct cost۔ Operating profit ہے gross profit minus operating expenses، جیسے rent۔
+
+Method۔ Step ایک، فیصلہ کریں کہ کون سا profit پوچھا گیا ہے۔ Step دو، تمام متعلقہ costs جمع کریں۔ کوئی ایک cost line چھوڑ دینا عام trap ہے۔ Step تین، subtract کریں: revenue minus total costs۔ Step چار، sign پڑھیں۔ Positive ہو تو profit ہے۔ Negative ہو تو loss ہے۔ currency کے ساتھ لکھیں کہ کیا ہے۔
+
+Worked Example۔ یہ جون دو ہزار انیس کے Paper two R کا اصل سوال ہے۔ ایک T-shirt بنانے میں گیارہ اعشاریہ صفر پانچ taka لگتے ہیں اور وہ تیرہ اعشاریہ سات پانچ taka میں بکتی ہے۔ اگر چودہ ہزار بکیں تو gross profit Calculate کریں۔ currency Bangladeshi taka ہے۔ Revenue ہے تیرہ اعشاریہ سات پانچ ضرب چودہ ہزار، یعنی ایک لاکھ بیانوے ہزار پانچ سو۔ Cost of sales ہے گیارہ اعشاریہ صفر پانچ ضرب چودہ ہزار، یعنی ایک لاکھ چون ہزار سات سو۔ Subtract کریں۔ ایک لاکھ بیانوے ہزار پانچ سو minus ایک لاکھ چون ہزار سات سو، سینتیس ہزار آٹھ سو taka۔ یہ positive ہے، اس لیے یہ profit ہے۔ Quick route سے check کریں۔ ہر T-shirt پر تیرہ اعشاریہ سات پانچ minus گیارہ اعشاریہ صفر پانچ، یعنی دو taka ستر بچتے ہیں۔ دو اعشاریہ سات ضرب چودہ ہزار بھی سینتیس ہزار آٹھ سو ہے۔
+
+Common Mistake۔ ایک عام غلطی: total costs کو جواب بنا دینا۔ ایک لاکھ چون ہزار سات سو cost of sales ہے، profit نہیں۔ آخر میں subtract ضرور کریں۔ ایک اور غلطی: الٹا subtract کرنا، یا کوئی cost line چھوڑ دینا۔ پھر loss، profit جیسا لگتا ہے۔ ہر cost جمع کریں، اور ہمیشہ revenue minus costs کریں۔
+
+Your Turn۔ اب آپ کریں۔ ایک market stall چار سو phone cases چھ dollars فی case بیچتا ہے۔ اس کی costs ہیں: stock کے پندرہ سو dollars، rent کے پانچ سو، اور wages کے چھ سو۔ اس کا profit یا loss Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ پہلے revenue۔ چار سو cases، چھ dollars فی case، دو ہزار چار سو dollars۔ اگلا، ہر cost line جمع کریں۔ پندرہ سو جمع پانچ سو جمع چھ سو، دو ہزار چھ سو dollars۔ اب subtract کریں۔ دو ہزار چار سو minus دو ہزار چھ سو، minus دو سو۔ sign negative ہے، اس لیے stall کو دو سو dollars کا loss ہوا۔ یاد رکھیں: revenue، تمام costs، subtract، sign پڑھیں۔ اب practice questions کریں۔

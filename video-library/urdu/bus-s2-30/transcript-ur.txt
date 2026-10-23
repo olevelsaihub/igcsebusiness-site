@@ -1,0 +1,11 @@
+Idea۔ اپنی school کو سوچیں۔ head teacher چند heads of department کی انچارج ہے۔ ہر head of department کئی teachers کا انچارج ہے۔ chart کی شکل میں یہ ایسا نظر آتا ہے۔ Span of control ان workers کی تعداد ہے جن کا manager براہ راست ذمہ دار ہو۔ یہاں head teacher براہ راست تین لوگوں کو manage کرتی ہے، اس لیے span of control تین ہے۔ Chain of command authority کی وہ لائن ہے جس سے instructions business کے top سے workers تک نیچے آتی ہیں۔ زیادہ levels کا مطلب لمبی chain۔ Delegation کا مطلب ہے کہ manager کوئی task کرنے کی authority نیچے کے کسی شخص کو دے دے۔ اس سے manager کا وقت بچتا ہے، اور جو staff خود کو قابل بھروسا محسوس کرتا ہے وہ اکثر زیادہ motivated ہوتا ہے۔
+
+Method۔ Step ایک۔ term کو اپنے الفاظ میں define کریں۔ Step دو۔ فیصلہ کریں کہ case کیا دکھاتا ہے: wide یا narrow span، یا لمبی یا چھوٹی chain۔ Step تین۔ ایک benefit یا وجہ State کریں۔ Step چار۔ اسے supervision، communication کی رفتار اور درستی، decision-making یا motivation سے link کریں۔
+
+Worked Example۔ یہ جون دو ہزار انیس کے Paper دو کا real question ہے۔ Explain کریں کہ چھوٹی chain of command کا business کو ایک benefit کیا ہے۔ تین marks ہیں۔ Mark ایک benefit ہے۔ Messages management کے کم levels سے گزرتے ہیں۔ Mark دو بتاتا ہے کہ یہ کیوں مدد کرتا ہے۔ Instructions زیادہ سیدھے پہنچتی ہیں، اس لیے راستے میں ان کے بدلنے یا غلط سمجھے جانے کا امکان کم ہوتا ہے۔ Mark تین نتیجہ ہے۔ مسائل جلد حل ہوتے ہیں اور فیصلوں پر جلد عمل ہوتا ہے، اس لیے کم غلطیاں ہوتی ہیں۔
+
+Common Mistake۔ سب سے بڑی mistake دونوں terms کو ملا دینا ہے۔ Span of control یہ ہے کہ ایک manager کتنے لوگوں کو control کرتا ہے۔ Chain of command یہ ہے کہ instructions کتنے levels سے گزرتی ہیں۔ ایک اور mistake یہ لکھ کر رک جانا ہے کہ communication بہتر ہوتی ہے۔ ہمیشہ اثر دکھائیں: کم errors، یا تیز فیصلے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک supermarket میں ایک store manager براہ راست پندرہ cashiers کی نگرانی کرتا ہے۔ کیا یہ wide span of control ہے یا narrow؟ اس سے ہونے والا ایک مسئلہ بتائیں۔ رک کر فیصلہ کریں۔
+
+Answer۔ ایک manager کے لیے پندرہ cashiers، wide span of control ہے۔ ایک مسئلہ: manager سب پر قریب سے نظر نہیں رکھ سکتا، اس لیے غلطیاں نظر سے رہ سکتی ہیں اور productivity گر سکتی ہے۔ method یاد رکھیں۔ term کو define کریں، فیصلہ کریں کہ case کیا دکھاتا ہے، benefit یا مسئلہ State کریں، پھر اسے business پر اثر سے link کریں۔ اب practice questions کریں۔

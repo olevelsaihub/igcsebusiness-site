@@ -1,0 +1,11 @@
+Idea۔ school trip سے پہلے آپ ہر ہفتے وہ پیسہ لکھ سکتے ہیں جو آپ کو ملنے کی امید ہے اور جو آپ خرچ کریں گے۔ پھر آپ کو جلد پتا چل جاتا ہے کہ کمی ہوگی یا نہیں، اور آپ کچھ کر سکتے ہیں۔ Cash-flow forecast اندازہ لگاتی ہے کہ آئندہ ہر مہینے کتنی cash آئے گی اور جائے گی۔ Net cash flow برابر inflows minus outflows۔ Closing balance برابر opening balance plus net cash flow، اور یہی اگلے مہینے کا opening balance بنتا ہے۔
+
+Method۔ Step ایک: term check کریں۔ Net cash flow ہمیشہ inflows minus outflows ہوتا ہے، اور جب آنے سے زیادہ جائے تو negative ہوتا ہے۔ February دیکھیں: net cash flow minus دو ہزار ہے۔ Step دو: بتائیں کہ forecast پہلے سے کیا دکھاتی ہے، پھر step three، اسے کسی action سے link کریں۔ کمی کو جلد دیکھ لینے سے وقت ملتا ہے کہ overdraft کا انتظام کریں، خرچ مؤخر کریں، یا قرض لینے سے پہلے bank کو دکھائیں۔ Step چار: حد یاد رکھیں۔ Forecast صرف اندازہ ہے۔ اگر sales گریں یا costs بڑھیں تو figures غلط ہو جائیں گے۔
+
+Worked Example۔ یہ جون دو ہزار تئیس کے Paper دو کا real question ہے۔ Explain کریں کہ cash-flow forecasting business کے لیے اہم کیوں ہے، ایک وجہ۔ تین marks ہیں۔ Mark ایک: وجہ۔ Forecast پہلے سے دکھاتی ہے کہ کن مہینوں میں cash کم پڑ سکتی ہے۔ Mark دو: جلد معلوم ہونے سے managers کو action کا وقت ملتا ہے، مثلاً overdraft کا انتظام کرنا یا بڑی خریداری ملتوی کرنا۔ Mark تین: business اس مہینے اپنے staff اور suppliers کو pay کرتا رہ سکتا ہے، بجائے اس کے کہ cash ختم ہو جائے اور اسے بند ہونا پڑے۔
+
+Common Mistake۔ ایک common mistake الٹی طرف سے subtract کرنا ہے۔ Net cash flow برابر inflows minus outflows۔ ایک اور یہ کہنا ہے کہ forecast کامیابی کی گارنٹی دیتی ہے۔ یہ صرف اندازہ ہے، اور غلط ہو سکتا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک bike shop اپریل کے inflows چھ ہزار dollars اور outflows آٹھ ہزار پانچ سو کا forecast کرتی ہے۔ اس کا opening balance ایک ہزار پانچ سو ہے۔ closing balance کیا ہے، اور shop کو کیا کرنا چاہیے؟ رک کر فیصلہ کریں۔
+
+Answer۔ Net cash flow برابر چھ ہزار minus آٹھ ہزار پانچ سو، یعنی minus دو ہزار پانچ سو۔ Closing balance برابر ایک ہزار پانچ سو minus دو ہزار پانچ سو، یعنی minus ایک ہزار dollars۔ اس لیے shop کو ابھی action لینا چاہیے، مثلاً کم از کم ایک ہزار dollars کا overdraft منظور کروانا، یا بڑی خریداری مؤخر کرنا۔ پھر وہ اپریل میں اپنے suppliers اور staff کو pay کر سکتی ہے۔

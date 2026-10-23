@@ -1,0 +1,11 @@
+Idea۔ تصور کریں کہ آپ کے دوستوں نے آپ سے بیس dollars لینے ہیں، لیکن lunch کے وقت آپ کی جیب خالی ہے۔ کاغذ پر آپ کے پاس پیسہ ہے، مگر آج آپ lunch نہیں خرید سکتے۔ Businesses کو بھی یہی مسئلہ ہوتا ہے۔ Cash flow پیسے کی وہ حرکت ہے جو business کے اندر آتا ہے، مثلاً customers سے، اور باہر جاتا ہے، مثلاً suppliers کو۔ Cash اور profit مختلف ہیں۔ Business profit کما کر بھی cash ختم کر سکتا ہے اگر اس کے customers دیر سے pay کریں۔
+
+Method۔ Step ایک: وہ payment بتائیں جو business کو cash میں کرنی ہے: اس کے suppliers، اس کے overheads جیسے rent اور electricity، یا اس کے employees کی wages۔ case کا business استعمال کریں۔ Step دو: دیکھیں کہ اگر pay نہ ہو تو کیا ہوتا ہے۔ Suppliers deliveries روک دیتے ہیں، بیچنے کو کچھ نہیں رہتا، اور business insolvent ہو سکتا ہے، یعنی قرض واجب ہونے پر انہیں ادا نہ کر سکے۔ cash flow بہتر کرنے کے لیے ایک سوال پوچھیں۔ کیا یہ cash کو جلد اندر لاتا ہے، یا باہر بعد میں بھیجتا ہے؟ customers کو جلد pay کرنے کو کہنا مدد کرتا ہے۔ انہیں دیر سے pay کرنے دینا حالت بدتر کرتا ہے۔
+
+Worked Example۔ یہ جون دو ہزار پچیس کے Paper دو کا real question ہے۔ Explain کریں کہ businesses کے لیے اپنے suppliers کو وقت پر pay کرنا اہم کیوں ہے، ایک وجہ۔ تین marks ہیں۔ Mark ایک: وجہ۔ وقت پر pay کرنے سے suppliers کے ساتھ اعتماد کا تعلق بنتا ہے۔ Mark دو: چونکہ supplier کو معلوم ہے کہ اسے pay ملے گی، وہ مدد کے لیے زیادہ تیار ہوتا ہے، مثلاً فوری deliveries یا credit پر خریداری میں۔ Mark تین: اس لیے business کا stock دستیاب رہتا ہے اور وہ sales competitors کے ہاتھوں نہیں کھوتا۔
+
+Common Mistake۔ ایک common mistake cash کو profit سے ملانا ہے۔ supplier کو دیر سے pay کرنے سے cash زیادہ دیر رہتی ہے، لیکن profit نہیں بدلتا۔ ایک اور، customers کو دیر سے pay کرنے دینا چننا۔ اس سے cash آنا سست ہوتا ہے، اس لیے cash flow بدتر ہوتا ہے۔
+
+Your Turn۔ اب آپ کوشش کریں۔ ایک builder نے بڑا کام ختم کر لیا ہے، مگر customer نوے دن تک pay نہیں کرے گا۔ builder کو ہر Friday wages دینی ہوتی ہیں۔ Explain کریں کہ builder کو cash کی ضرورت کیوں ہے، ایک وجہ۔ رک کر فیصلہ کریں۔
+
+Answer۔ builder کو ہر Friday wages دینے کے لیے cash چاہیے۔ اگر نہ دے سکے تو workers کام سے انکار کر سکتے ہیں یا چھوڑ سکتے ہیں، اس لیے کام میں delay ہوتا ہے اور customers کہیں اور چلے جاتے ہیں، چاہے اس کام سے profit ہوا ہو۔ اس type کا pattern یہی ہے۔ ایک payment کا نام لیں، case استعمال کریں، پھر دکھائیں کہ اس کے رہ جانے پر کیا ہوتا ہے۔ اب practice questions کریں۔

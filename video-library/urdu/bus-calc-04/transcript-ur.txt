@@ -1,0 +1,11 @@
+Idea۔ سوچیں آپ school fair میں cupcakes دو dollars فی cupcake بیچتے ہیں، اور چالیس بکتے ہیں۔ آپ کو ملتے ہیں دو ضرب چالیس، یعنی اسی dollars۔ یہ پیسے آپ کی revenue ہیں۔ Pay بھی اسی طرح بنتی ہے۔ Remuneration وہ total reward ہے جو employees کو ادا کیا جاتا ہے۔ اگر آپ دس dollars فی گھنٹہ کماتے ہیں اور چھ گھنٹے کام کرتے ہیں تو آپ کی pay ساٹھ dollars ہے۔
+
+Method۔ Step ایک، rate ڈھونڈیں: فی item price، یا فی گھنٹہ pay۔ revenue کے لیے ہمیشہ selling price استعمال کریں، cost نہیں۔ Step دو، ہر quantity ڈھونڈیں۔ time period پر دھیان دیں۔ ہر مہینے پانچ sales، ایک سال میں، یعنی پانچ ضرب بارہ۔ اگر کئی shops یا factories ہوں تو پہلے انہیں جمع کریں۔ Step تین، rate کو total quantity سے multiply کریں۔ Step چار، currency لکھیں اور جیسا کہا جائے ویسے round کریں۔
+
+Worked Example۔ یہ نومبر دو ہزار چوبیس کے Paper one کا اصل سوال ہے، Türkiye کے ایک robot maker کے بارے میں۔ ہر battery pack نوے dollars میں بکتا ہے، اور دو ہزار تئیس میں ہر مہینے پانچ بکے۔ پورے سال کی total revenue Calculate کریں۔ rate ہے نوے dollars فی pack۔ ایک مہینے میں revenue ہے نوے ضرب پانچ، یعنی چار سو پچاس dollars۔ ایک سال میں بارہ مہینے ہوتے ہیں۔ چار سو پچاس ضرب بارہ، پانچ ہزار چار سو dollars۔ یا، ساٹھ packs ضرب نوے dollars بھی یہی جواب دیتا ہے۔
+
+Common Mistake۔ سب سے عام غلطی: ایک مہینے پر رک جانا۔ چار سو پچاس dollars صرف ایک مہینے کے ہیں۔ سوال میں پورا سال پوچھا گیا تھا۔ ایک اور غلطی: صرف ایک group کو multiply کرنا۔ اگر دو shops ہر ایک سامان بیچتی ہیں تو price سے multiply کرنے سے پہلے دونوں shops کی sales جمع کریں۔
+
+Your Turn۔ اب آپ کریں۔ ایک café میں تین workers ہیں۔ ہر ایک ہفتے میں پچیس گھنٹے کام کرتا ہے، آٹھ dollars پچاس cents فی گھنٹہ پر۔ café کی total weekly pay Calculate کریں۔ یہاں رک کر حل کریں۔
+
+Answer۔ پہلے total quantity۔ تین workers ہر ایک پچیس گھنٹے کام کرتا ہے، یعنی ہفتے میں پچھتر گھنٹے۔ اب rate سے multiply کریں۔ پچھتر ضرب آٹھ dollars پچاس cents، چھ سو سینتیس dollars پچاس cents فی ہفتہ۔ یاد رکھیں method: rate ڈھونڈیں، time period سمیت ہر quantity ڈھونڈیں، پھر multiply کریں۔ اب practice questions کریں۔
